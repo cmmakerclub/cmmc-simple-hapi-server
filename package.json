@@ -1,0 +1,32 @@
+{
+  "name": "microgear",
+  "version": "0.5.5",
+  "scripts": {},
+  "dependencies": {
+    "hapi": "^10.0.1",
+    "hat": "0.0.3",
+    "mqtt": "^1.4.1",
+    "oauth": "^0.9.14"
+  },
+  "description": "microgear client library",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netpieio/microgear-nodejs.git"
+  },
+  "keywords": [
+    "netpie",
+    "iot",
+    "iot",
+    "platform"
+  ],
+  "author": "netpieio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netpieio/microgear-nodejs/issues"
+  },
+  "homepage": "https://github.com/netpieio/microgear-nodejs"
+}
